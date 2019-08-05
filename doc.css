@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: black;
+	color: white;
+	max-height: 100px;
+	display: flex;
+	justify-content: space-evenly;
+}
+#nombre{
+	width: 30%;
+	height: 100px;
+}
+.contenido{
+	height: 200px;
+	width: 100%;
+}
+#nombre_contenido{
+	background-color: blue;
+}
